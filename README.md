@@ -253,3 +253,5 @@ agriculture/
     ├── app.py             # FastAPI application (HTTP + WebSocket endpoints)
     └── Dockerfile         # Container image definition
 ```
+#   A g r i R L - - - o p e n e n v  
+ 
